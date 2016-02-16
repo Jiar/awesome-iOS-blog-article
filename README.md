@@ -141,6 +141,7 @@
 * [一文让你彻底了解iOS字体相关知识](http://www.cnblogs.com/dsxniubility/p/4699352.html)
 * [itunes](https://itunesconnect.apple.com)
 * [2015年最新苹果开发者账号注册流程详解](http://www.niaogebiji.com/article-5703-1.html)
+* [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 ### Git相关
