@@ -33,15 +33,15 @@
   
 ## 内容
 
-### [iOS开发相关]
+### iOS开发相关
 
-#### [iOS基础]
+#### iOS基础
 * [OC语法基础](http://blog.csdn.net/jiangwei0910410003/article/category/2745191)
 * [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
 * [开始iOS 7中自动布局教程(二)](http://www.cnblogs.com/zer0Black/p/3977288.html)
 
-#### [UITableView]
+#### UITableView
 * [UITableView和UITableViewCell的几种样式](http://blog.sina.com.cn/s/blog_4669f1cd0101qyp9.html)
 * [UITableView使用详解](http://blog.sina.com.cn/s/blog_9693f61a01016lv5.html)
 * [UITableView优化技巧](http://longxdragon.github.io/2015/05/26/UITableView%E4%BC%98%E5%8C%96%E6%8A%80%E5%B7%A7/) 
