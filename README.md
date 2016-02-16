@@ -168,33 +168,50 @@
 >[百度知道技术团队](http://blog.sunnyxx.com/)
 
 >[王巍的技术博客](http://onevcat.com/)
+
 >[玉令天下的博客](http://yulingtianxia.com/)
 
 #### 其他
+
 >[Limboy：自学 iOS 开发的一些经验](http://www.cocoachina.com/cms/wap.php?action=article&id=10823)
+
 >[TSS](http://api.ineal.me/tss/status)
+
 >[Big Nerd Ranch Books](http://forums.bignerdranch.com/)
+
 >[AppCode](https://www.jetbrains.com/objc/)
+
 >[使用j2objc实现iOS调java](http://blog.csdn.net/xyxjn/article/details/46049313)
+
 >[获取当前AppDelegate 正在显示的UIViewController](http://blog.csdn.net/shaobo8910/article/details/47789027)
+
 >[iOS图像处理](http://www.cnblogs.com/zanglitao/p/4036667.html)
+
 >[iOS KVC & KVO](http://blog.jobbole.com/61044/)
+
 >[能产生粒子效果的CAEmitterLayer](http://www.cnblogs.com/YouXianMing/p/3785876.html)
 
 
 ### Git相关
 
 #### git教程
+
 >[廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 
 ### Mac相关
 
 #### mac配置
+
 >[如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #### mac工具
+
 >[Homebrew](http://brew.sh/index_zh-cn.html)
+
 >[apple.com/downloads](https://developer.apple.com/downloads/)
+
 >[Java for OS X 2015-001](https://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US)
+
 >[iTerm](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
