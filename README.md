@@ -15,6 +15,7 @@
     - [Block](#Block)
     - [GCD](#GCD)
     - [Runtime](#Runtime)
+    - [iOS Animation](#iOS Animation)
     - [扫码](#扫码)
     - [Swift](#Swift)
     - [CocoaPods](#CocoaPods)
