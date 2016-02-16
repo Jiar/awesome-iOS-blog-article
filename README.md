@@ -85,6 +85,7 @@
 #### iOS Animation
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Facebook POP 进阶指南](http://www.cocoachina.com/industry/20140704/9034.html)
+* [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #### 扫码
 * [iOS7使用原生API进行二维码和条形码的扫描](http://my.oschina.net/u/2340880/blog/405847?fromerr=TWrCF6HG)
