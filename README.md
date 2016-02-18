@@ -146,6 +146,7 @@
 * [iOS KVC & KVO](http://blog.jobbole.com/61044/)
 * [能产生粒子效果的CAEmitterLayer](http://www.cnblogs.com/YouXianMing/p/3785876.html)
 * [一文让你彻底了解iOS字体相关知识](http://www.cnblogs.com/dsxniubility/p/4699352.html)
+* [iOS静态库的制作](http://www.jianshu.com/p/d70a51be5af1)
 * [itunes](https://itunesconnect.apple.com)
 * [2015年最新苹果开发者账号注册流程详解](http://www.niaogebiji.com/article-5703-1.html)
 * [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
