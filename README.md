@@ -14,6 +14,7 @@
     - [缓存](#缓存)
     - [Block](#Block)
     - [GCD](#GCD)
+    - [RAC/MVVM](#RAC/MVVM)
     - [Runtime](#Runtime)
     - [iOS Animation](#iOS Animation)
     - [扫码](#扫码)
@@ -27,6 +28,9 @@
     
 - [Git相关](#Git相关)
     - [git教程](#git教程)
+
+- [Markdown相关](#Markdown相关)
+    - [markdown相关](#markdown相关)
   
 - [Mac相关](#Mac相关)
     - [mac配置](#mac配置)
@@ -41,6 +45,11 @@
 
 #### iOS基础
 * [OC语法基础](http://blog.csdn.net/jiangwei0910410003/article/category/2745191)
+* [Objective-C代码规范](http://www.jianshu.com/p/4ef06ec81414)
+* [从零开始学iOS开发的15条建议](http://www.jianshu.com/p/8472ba0f2bb6)
+* [浅谈 Objective - C 内存管理（上）](http://www.jianshu.com/p/52f136a3df1a)
+* [浅谈 Objective - C 内存管理（中）](http://www.jianshu.com/p/1d9f6fc2a1b7)
+* [浅谈 Objective - C 内存管理（下）](http://www.jianshu.com/p/36d5d98c9d3a)
 * [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
 * [开始iOS 7中自动布局教程(二)](http://www.cnblogs.com/zer0Black/p/3977288.html)
@@ -82,6 +91,11 @@
 #### GCD
 * [GCD 深入理解：第一部分](https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md)
 * [GCD 深入理解：第二部分](https://github.com/nixzhu/dev-blog/blob/master/2014-05-14-grand-central-dispatch-in-depth-part-2.md)
+* [关于GCD开发的一些事儿](http://www.jianshu.com/p/f9e01c69a46f)
+* [iOS中GCD的使用小结](http://www.jianshu.com/p/ae786a4cf3b1)
+
+#### RAC/MVVM
+* [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
 
 #### Runtime
 * [Objective-C Runtime](http://justsee.iteye.com/blog/2163777)
@@ -90,6 +104,7 @@
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [Facebook POP 进阶指南](http://www.cocoachina.com/industry/20140704/9034.html)
 * [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS使用Quartzcode设计动画，快速得到Object-C 和 Swift 代码](http://www.jianshu.com/p/90d6cd355b14)
 
 #### 扫码
 * [iOS7使用原生API进行二维码和条形码的扫描](http://my.oschina.net/u/2340880/blog/405847?fromerr=TWrCF6HG)
@@ -118,9 +133,10 @@
 * [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
 
 #### 调试
-* [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
 * [oneapm.com](http://www.oneapm.com/)
 * [BugHD](http://bughd.com/)
+* [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
+* [iOS 开发者旅途中的指南针 - LLDB 调试技术](http://www.jianshu.com/p/75a2b63106ff)
 * [Xcode7中你一定要知道的炸裂调试神技](http://www.jianshu.com/p/70ed36cf8a98?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 
 #### XCode插件
@@ -142,6 +158,7 @@
 * [Big Nerd Ranch Books](http://forums.bignerdranch.com/)
 * [AppCode](https://www.jetbrains.com/objc/)
 * [使用j2objc实现iOS调java](http://blog.csdn.net/xyxjn/article/details/46049313)
+* [VC之间的数据传递方式小结](http://www.jianshu.com/p/8edc728a0444)
 * [获取当前AppDelegate 正在显示的UIViewController](http://blog.csdn.net/shaobo8910/article/details/47789027)
 * [iOS图像处理](http://www.cnblogs.com/zanglitao/p/4036667.html)
 * [iOS KVC & KVO](http://blog.jobbole.com/61044/)
@@ -151,12 +168,20 @@
 * [itunes](https://itunesconnect.apple.com)
 * [2015年最新苹果开发者账号注册流程详解](http://www.niaogebiji.com/article-5703-1.html)
 * [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [可以免费自学编程的12个网站](http://www.jianshu.com/p/9f094ce31075)
+* [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
 
 
 ### Git相关
 
 #### git教程
 * [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+
+### Markdown相关
+
+#### markdown相关
+* [Markdown——入门指南](http://www.jianshu.com/p/1e402922ee32)
 
 
 ### Mac相关
