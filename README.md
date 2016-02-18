@@ -114,6 +114,7 @@
 * [iOS走马观花](http://ios.b2mp.cn/)
 * [iOS开源库](http://www.douban.com/note/276160185/?plg_nld=1&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_vkey=1&plg_nld=1&type=like#!/i!/ckDefault)
 * [Facebook Paper使用的第三方库](http://blog.rpplusplus.me/blog/2014/02/11/facebook-paper-used-3rd/)
+* [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
 
 #### 调试
 * [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
