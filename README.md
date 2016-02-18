@@ -132,6 +132,7 @@
 * [百度知道技术团队](http://blog.sunnyxx.com/)
 * [王巍的技术博客](http://onevcat.com/)
 * [玉令天下的博客](http://yulingtianxia.com/)
+* [叶孤城___ 的微博主页](http://weibo.com/u/1438670852/)
 
 #### 其他
 * [Limboy：自学 iOS 开发的一些经验](http://www.cocoachina.com/cms/wap.php?action=article&id=10823)
