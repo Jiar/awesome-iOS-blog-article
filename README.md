@@ -1,4 +1,4 @@
-# Awesome-dev-blog-article
+# awesome-dev-blog-article
 学习与开发过程中，发现的比较好的一些博客和文章之类的内容，收集着，利人利己，持续更新。
 
 -----------------
