@@ -150,6 +150,7 @@
 * [百度知道技术团队](http://blog.sunnyxx.com/)
 * [王巍的技术博客](http://onevcat.com/)
 * [玉令天下的博客](http://yulingtianxia.com/)
+* [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog)
 * [叶孤城___ 的微博主页](http://weibo.com/u/1438670852/)
 
 #### 其他
