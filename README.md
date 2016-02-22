@@ -99,6 +99,8 @@
 
 #### Runtime
 * [Objective-C Runtime](http://justsee.iteye.com/blog/2163777)
+* [Runtime 学习笔记(一)](http://lastdays.cn/2016/02/20/runtime1/)
+* [Runtime 学习笔记(二)](http://lastdays.cn/2016/02/20/runtime2/)
 
 #### iOS Animation
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
