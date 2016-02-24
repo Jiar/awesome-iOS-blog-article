@@ -154,6 +154,7 @@
 * [玉令天下的博客](http://yulingtianxia.com/)
 * [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog)
 * [叶孤城___ 的微博主页](http://weibo.com/u/1438670852/)
+* [ChenYilong的Github主页](https://github.com/ChenYilong)
 
 #### 其他
 * [Limboy：自学 iOS 开发的一些经验](http://www.cocoachina.com/cms/wap.php?action=article&id=10823)
