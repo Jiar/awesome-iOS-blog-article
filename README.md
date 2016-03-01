@@ -199,6 +199,7 @@
 * [Java for OS X 2015-001](https://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US)
 * [iTerm](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [iOS程序员必备常用工具](http://mozhenhau.com/2016/01/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95---MAC/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Network Link Conditioner(Xcode插件,网络调节工具)](http://nshipster.com/network-link-conditioner/)
 
 
 ### 资源
