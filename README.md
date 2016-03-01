@@ -140,6 +140,7 @@
 * [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
 * [iOS 开发者旅途中的指南针 - LLDB 调试技术](http://www.jianshu.com/p/75a2b63106ff)
 * [Xcode7中你一定要知道的炸裂调试神技](http://www.jianshu.com/p/70ed36cf8a98?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
+* [如何使用Instruments诊断App(Swift版):起步](http://www.cocoachina.com/swift/20150623/12237.html)
 
 #### XCode插件
 * [那些不能错过的Xcode插件](http://www.cocoachina.com/industry/20130918/7022.html)
