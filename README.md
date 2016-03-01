@@ -93,6 +93,7 @@
 * [GCD 深入理解：第二部分](https://github.com/nixzhu/dev-blog/blob/master/2014-05-14-grand-central-dispatch-in-depth-part-2.md)
 * [关于GCD开发的一些事儿](http://www.jianshu.com/p/f9e01c69a46f)
 * [iOS中GCD的使用小结](http://www.jianshu.com/p/ae786a4cf3b1)
+* [NSOperation and NSOperationQueue Tutorial in Swift](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
 
 #### RAC/MVVM
 * [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
