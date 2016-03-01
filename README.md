@@ -29,6 +29,12 @@
 - [Git相关](#Git相关)
     - [git教程](#git教程)
 
+- [Emacs相关](#Emacs相关)
+    - [emacs教程](#emacs教程)
+
+- [Vim相关](#Vim相关)
+    - [vim教程](#vim教程)
+
 - [Markdown相关](#Markdown相关)
     - [markdown相关](#markdown相关)
   
@@ -37,7 +43,7 @@
     - [mac工具](#mac工具)
 
 - [资源](#资源)
--   - [图标资源](#图标资源)
+    - [图标资源](#图标资源)
   
 ## 内容
 
@@ -182,6 +188,22 @@
 
 #### git教程
 * [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+
+
+### Emacs相关
+
+#### emacs教程
+* [从零开始——Emacs 安装配置使用教程 2015](http://www.jianshu.com/p/b4cf683c25f3)
+* [一年成为Emacs高手(像神一样使用编辑器)](https://github.com/redguardtoo/mastering-emacs-in-one-year-guide/blob/master/guide-zh.org)
+
+
+### Vim相关
+
+#### vim教程
+* [简明Vim练级攻略](http://coolshell.cn/articles/5426.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Vim新手节省时间的10多个小技巧](http://9iphp.com/linux/time-saving-tips-for-unix-vim-beginners.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [用Vim来打造自己心仪的IDE](http://v2ex.com/t/235055?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [vim快速上手](http://www.jianshu.com/p/33100d3fa173)
 
 
 ### Markdown相关
