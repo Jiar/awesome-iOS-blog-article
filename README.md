@@ -141,9 +141,11 @@
 * [Facebook Paper使用的第三方库](http://blog.rpplusplus.me/blog/2014/02/11/facebook-paper-used-3rd/)
 * [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
 
-#### 调试
+#### 调试以及日志
 * [oneapm.com](http://www.oneapm.com/)
 * [BugHD](http://bughd.com/)
+* [CocoaLumberjack和XcodeColors的安装和使用](http://www.jianshu.com/p/7eb7725c933c)
+* [CocoaLumberjack的ios应用开发使用指南](http://blog.csdn.net/jia12216/article/details/44412697)
 * [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
 * [iOS 开发者旅途中的指南针 - LLDB 调试技术](http://www.jianshu.com/p/75a2b63106ff)
 * [Xcode7中你一定要知道的炸裂调试神技](http://www.jianshu.com/p/70ed36cf8a98?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
