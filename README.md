@@ -57,6 +57,7 @@
 * [浅谈 Objective - C 内存管理（中）](http://www.jianshu.com/p/1d9f6fc2a1b7)
 * [浅谈 Objective - C 内存管理（下）](http://www.jianshu.com/p/36d5d98c9d3a)
 * [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
+* [@weakify, @strongify](http://www.jianshu.com/p/3d6c4416db5e)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
 * [开始iOS 7中自动布局教程(二)](http://www.cnblogs.com/zer0Black/p/3977288.html)
 
