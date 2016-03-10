@@ -25,6 +25,9 @@
     - [XCode插件](#XCode插件)
     - [Blog](#Blog)
     - [其他](#其他)
+
+- [iOS逆向工程](#iOS逆向工程)
+    - [Reveal](#Reveal)
     
 - [Git相关](#Git相关)
     - [git教程](#git教程)
@@ -46,6 +49,7 @@
     - [图标资源](#图标资源)
   
 ## 内容
+
 
 ### iOS开发相关
 
@@ -187,7 +191,12 @@
 * [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
 
 
-### Git相关
+### iOS逆向工程
+
+#### Reveal
+* [iOS开发中集成Reveal](http://git.devzeng.com/blog/ios-reveal-integrating.html)
+* [Reveal:分析iOS UI的利器](http://security.ios-wiki.com/issue-3-4/)
+* [Reveal查看任意app的高级技巧](http://c.blog.sina.com.cn/profile.php?blogid=cb8a22ea89000gtw)
 
 #### git教程
 * [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
