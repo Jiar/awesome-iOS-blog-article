@@ -61,6 +61,7 @@
 * [浅谈 Objective - C 内存管理（上）](http://www.jianshu.com/p/52f136a3df1a)
 * [浅谈 Objective - C 内存管理（中）](http://www.jianshu.com/p/1d9f6fc2a1b7)
 * [浅谈 Objective - C 内存管理（下）](http://www.jianshu.com/p/36d5d98c9d3a)
+* [Objective-C的@property的详细解读](http://blog.talisk.cn/blog/2016/03/05/iOS-@property/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 * [@weakify, @strongify](http://www.jianshu.com/p/3d6c4416db5e)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
@@ -131,6 +132,8 @@
 #### Swift
 * [swift.org](https://swift.org/)
 * [swift中文文档](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/index.html)
+* [SwiftGuide](https://github.com/ipader/SwiftGuide)
+* [Swift开发者周刊](http://swiftweekly.cn/archive.html)
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
@@ -149,6 +152,7 @@
 * [iOS开源库](http://www.douban.com/note/276160185/?plg_nld=1&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_vkey=1&plg_nld=1&type=like#!/i!/ckDefault)
 * [Facebook Paper使用的第三方库](http://blog.rpplusplus.me/blog/2014/02/11/facebook-paper-used-3rd/)
 * [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
+* [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 #### 调试以及日志
 * [oneapm.com](http://www.oneapm.com/)
@@ -174,6 +178,7 @@
 * [nixzhu/dev-blog](https://github.com/nixzhu/dev-blog)
 * [叶孤城___ 的微博主页](http://weibo.com/u/1438670852/)
 * [ChenYilong的Github主页](https://github.com/ChenYilong)
+* [geeklu.com](http://geeklu.com/)
 
 #### 其他
 * [Limboy：自学 iOS 开发的一些经验](http://www.cocoachina.com/cms/wap.php?action=article&id=10823)
@@ -193,6 +198,15 @@
 * [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 * [可以免费自学编程的12个网站](http://www.jianshu.com/p/9f094ce31075)
 * [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
+* [iOS静态库制作](http://www.jianshu.com/p/df0548780cd0?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [解决常见的masksToBounds离屏渲染带来的性能损耗](http://zyden.vicp.cc/zycornerradius/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [逆向分析网络协议iOS篇](https://mp.weixin.qq.com/s?__biz=MzIwMTYzMzcwOQ==&mid=403204191&idx=1&sn=514664cc05597f8b76730cbf9f3a57f5)
+* [Objective-C和Swift混编的一些经验](http://www.jianshu.com/p/a5e6e574145b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [用OCLint给iOS代码做静态分析](http://blog.csdn.net/uxyheaven/article/details/50818107?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [如何在Cell中有不定数量个带图Button的情况下,保持性能和代码可读性?](http://reviewcode.cn/article.html?hmsr=toutiao.io&reviewId=15&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Apple Pay接入详细教程](http://www.jianshu.com/p/738aee78ba52?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS实现简单的抽屉式侧栏——MMDraweController的使用](http://www.jianshu.com/p/940568a36e2c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [HTTPS科普扫盲帖](https://segmentfault.com/a/1190000004523659?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 
 ### iOS逆向工程
@@ -201,6 +215,9 @@
 * [iOS开发中集成Reveal](http://git.devzeng.com/blog/ios-reveal-integrating.html)
 * [Reveal:分析iOS UI的利器](http://security.ios-wiki.com/issue-3-4/)
 * [Reveal查看任意app的高级技巧](http://c.blog.sina.com.cn/profile.php?blogid=cb8a22ea89000gtw)
+
+
+### Git相关
 
 #### git教程
 * [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
