@@ -61,7 +61,7 @@
 * [浅谈 Objective - C 内存管理（上）](http://www.jianshu.com/p/52f136a3df1a)
 * [浅谈 Objective - C 内存管理（中）](http://www.jianshu.com/p/1d9f6fc2a1b7)
 * [浅谈 Objective - C 内存管理（下）](http://www.jianshu.com/p/36d5d98c9d3a)
-* [Objective-C的@property的详细解读](http://blog.talisk.cn/blog/2016/03/05/iOS-@property/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Objective-C的@property的详细解读](http://blog.talisk.cn/blog/2016/03/05/iOS-@property/)
 * [iOS应用程序的生命周期](http://www.jianshu.com/p/aa50e5350852?utm_campaign=maleskine&utm_content=note&utm_medium=writer_share&utm_source=weibo)
 * [@weakify, @strongify](http://www.jianshu.com/p/3d6c4416db5e)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
@@ -76,7 +76,7 @@
 * [AsyncDisplayKit 教程：达到 60 FPS 的滚动帧率](http://www.cocoachina.com/swift/20141124/10298.html)
 * [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
 * [iOS 程序性能优化](http://www.samirchen.com/ios-performance-optimization/)
-* [iOS 高性能异构滚动视图构建方案](http://pingguohe.net/2016/01/31/lazyscroll.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS 高性能异构滚动视图构建方案](http://pingguohe.net/2016/01/31/lazyscroll.html)
 
 #### UICollectionView
 * [UICollectionView + UIKit Dynamics](http://objccn.io/issue-5-2/)
@@ -113,6 +113,7 @@
 
 #### RAC/MVVM
 * [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
+* [ReactiveCocoa 4 最佳实践](http://www.jianshu.com/p/da392a685a92)
 
 #### Runtime
 * [Objective-C Runtime](http://justsee.iteye.com/blog/2163777)
@@ -120,9 +121,9 @@
 * [Runtime 学习笔记(二)](http://lastdays.cn/2016/02/20/runtime2/)
 
 #### iOS Animation
-* [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo)
 * [Facebook POP 进阶指南](http://www.cocoachina.com/industry/20140704/9034.html)
-* [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057)
 * [iOS使用Quartzcode设计动画，快速得到Object-C 和 Swift 代码](http://www.jianshu.com/p/90d6cd355b14)
 
 #### 扫码
@@ -137,7 +138,7 @@
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
-* [借助GitHub托管Category,利用CocoaPods集成到项目中](https://github.com/Damonvvong/DWCategory/blob/master/README.md?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [借助GitHub托管Category,利用CocoaPods集成到项目中](https://github.com/Damonvvong/DWCategory/blob/master/README.md)
 * [深入理解 CocoaPods](http://objccn.io/issue-6-4/)
 * [ CocoaPods pod install/pod update更新慢的问题](http://blog.csdn.net/ralbatr/article/details/39082937)
 
@@ -152,7 +153,7 @@
 * [iOS开源库](http://www.douban.com/note/276160185/?plg_nld=1&plg_uin=1&plg_auth=1&plg_usr=1&plg_dev=1&plg_vkey=1&plg_nld=1&type=like#!/i!/ckDefault)
 * [Facebook Paper使用的第三方库](http://blog.rpplusplus.me/blog/2014/02/11/facebook-paper-used-3rd/)
 * [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
-* [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/)
 
 #### 调试以及日志
 * [oneapm.com](http://www.oneapm.com/)
@@ -195,18 +196,24 @@
 * [iOS静态库的制作](http://www.jianshu.com/p/d70a51be5af1)
 * [itunes](https://itunesconnect.apple.com)
 * [2015年最新苹果开发者账号注册流程详解](http://www.niaogebiji.com/article-5703-1.html)
-* [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [高斯模糊算法](http://www.ruanyifeng.com/blog/2012/11/gaussian_blur.html)
 * [可以免费自学编程的12个网站](http://www.jianshu.com/p/9f094ce31075)
 * [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
-* [iOS静态库制作](http://www.jianshu.com/p/df0548780cd0?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [解决常见的masksToBounds离屏渲染带来的性能损耗](http://zyden.vicp.cc/zycornerradius/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iOS静态库制作](http://www.jianshu.com/p/df0548780cd0)
+* [解决常见的masksToBounds离屏渲染带来的性能损耗](http://zyden.vicp.cc/zycornerradius/)
 * [逆向分析网络协议iOS篇](https://mp.weixin.qq.com/s?__biz=MzIwMTYzMzcwOQ==&mid=403204191&idx=1&sn=514664cc05597f8b76730cbf9f3a57f5)
-* [Objective-C和Swift混编的一些经验](http://www.jianshu.com/p/a5e6e574145b?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [用OCLint给iOS代码做静态分析](http://blog.csdn.net/uxyheaven/article/details/50818107?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Objective-C和Swift混编的一些经验](http://www.jianshu.com/p/a5e6e574145b)
+* [用OCLint给iOS代码做静态分析](http://blog.csdn.net/uxyheaven/article/details/50818107)
 * [如何在Cell中有不定数量个带图Button的情况下,保持性能和代码可读性?](http://reviewcode.cn/article.html?hmsr=toutiao.io&reviewId=15&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [Apple Pay接入详细教程](http://www.jianshu.com/p/738aee78ba52?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [iOS实现简单的抽屉式侧栏——MMDraweController的使用](http://www.jianshu.com/p/940568a36e2c?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [Apple Pay接入详细教程](http://www.jianshu.com/p/738aee78ba52)
+* [iOS实现简单的抽屉式侧栏——MMDraweController的使用](http://www.jianshu.com/p/940568a36e2c)
 * [HTTPS科普扫盲帖](https://segmentfault.com/a/1190000004523659?f=tt&hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [在LLDB中一键打开模拟器sandbox路径](http://openfibers.github.io/blog/2016/03/04/open-sandbox-folder-in-lldb/)
+* [iOS代码规范自动化](http://jwdev.cn/2016/02/29/iOS%E4%BB%A3%E7%A0%81%E8%A7%84%E8%8C%83%E8%87%AA%E5%8A%A8%E5%8C%96/)
+* [让你爱上用代码自动布局——SDAutoLayout](http://blog.talisk.cn/blog/2016/03/03/iOS-SDAutoLayout/)
+* [使用 Chrome 扩展程序 JSON Viewer 进行调试](http://blog.jayxhj.com/2016/01/using-json-viewer-for-debugging/)
+* [UIKit性能调优实战讲解](http://www.jianshu.com/p/619cf14640f3)
+* [你应当了解，但有可能不知道的Swift技巧](http://geek.csdn.net/news/detail/58593)
 
 
 ### iOS逆向工程
@@ -221,6 +228,7 @@
 
 #### git教程
 * [廖雪峰git教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* [awesome-github](https://github.com/AntBranch/awesome-github)
 
 
 ### Emacs相关
@@ -233,9 +241,9 @@
 ### Vim相关
 
 #### vim教程
-* [简明Vim练级攻略](http://coolshell.cn/articles/5426.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [Vim新手节省时间的10多个小技巧](http://9iphp.com/linux/time-saving-tips-for-unix-vim-beginners.html?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [用Vim来打造自己心仪的IDE](http://v2ex.com/t/235055?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [简明Vim练级攻略](http://coolshell.cn/articles/5426.html)
+* [Vim新手节省时间的10多个小技巧](http://9iphp.com/linux/time-saving-tips-for-unix-vim-beginners.html)
+* [用Vim来打造自己心仪的IDE](http://v2ex.com/t/235055)
 * [vim快速上手](http://www.jianshu.com/p/33100d3fa173)
 
 
@@ -248,14 +256,14 @@
 ### Mac相关
 
 #### mac配置
-* [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 
 #### mac工具
 * [Homebrew](http://brew.sh/index_zh-cn.html)
 * [apple.com/downloads](https://developer.apple.com/downloads/)
 * [Java for OS X 2015-001](https://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US)
-* [iTerm](http://swiftcafe.io/2015/07/25/iterm/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
-* [iOS程序员必备常用工具](http://mozhenhau.com/2016/01/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95---MAC/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+* [iTerm](http://swiftcafe.io/2015/07/25/iterm/)
+* [iOS程序员必备常用工具](http://mozhenhau.com/2016/01/11/%E7%A8%8B%E5%BA%8F%E5%91%98%E5%BF%85%E5%A4%87%E5%B8%B8%E7%94%A8%E5%B7%A5%E5%85%B7%E8%AE%B0%E5%BD%95---MAC/)
 * [Network Link Conditioner(Xcode插件,网络调节工具)](http://nshipster.com/network-link-conditioner/)
 
 
