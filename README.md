@@ -84,6 +84,7 @@
 
 #### UINavigationController
 * [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/23/yong-revealfen-xi-wang-yi-yun-yin-le-de-dao-hang-kong-zhi-qi-qie-huan-xiao-guo/)
+* [iOS-给push出来的控制器添加全局滑动(返回)手势](http://www.jianshu.com/p/158d68a730d3)
 
 #### CoreText
 * [CoreText入门](http://geeklu.com/2013/03/core-text/)
