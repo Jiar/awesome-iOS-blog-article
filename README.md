@@ -9,6 +9,7 @@
     - [iOS基础](#iOS基础)
     - [UITableView](#UITableView)
     - [UICollectionView](#UICollectionView)
+    - [UINavigationController](#UINavigationController)
     - [CoreText](#CoreText)
     - [证书及推送](#证书及推送)
     - [缓存](#缓存)
@@ -79,6 +80,9 @@
 #### UICollectionView
 * [UICollectionView + UIKit Dynamics](http://objccn.io/issue-5-2/)
 * [UICollectionView的数据预加载及图片加载逻辑的优化](http://blog.vars.me/blog/2015/04/26/UICollectionView-Optimizing/)
+
+#### UINavigationController
+* [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/23/yong-revealfen-xi-wang-yi-yun-yin-le-de-dao-hang-kong-zhi-qi-qie-huan-xiao-guo/)
 
 #### CoreText
 * [CoreText入门](http://geeklu.com/2013/03/core-text/)
