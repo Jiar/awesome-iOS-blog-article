@@ -136,6 +136,7 @@
 * [swift中文文档](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/content/index.html)
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [Swift开发者周刊](http://swiftweekly.cn/archive.html)
+* [SwiftGG](http://swift.gg/)
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
@@ -215,6 +216,8 @@
 * [使用 Chrome 扩展程序 JSON Viewer 进行调试](http://blog.jayxhj.com/2016/01/using-json-viewer-for-debugging/)
 * [UIKit性能调优实战讲解](http://www.jianshu.com/p/619cf14640f3)
 * [你应当了解，但有可能不知道的Swift技巧](http://geek.csdn.net/news/detail/58593)
+* [《招聘一个靠谱的iOS》面试题参考答案](https://github.com/ChenYilong/iOSInterviewQuestions/tree/master/01%E3%80%8A%E6%8B%9B%E8%81%98%E4%B8%80%E4%B8%AA%E9%9D%A0%E8%B0%B1%E7%9A%84iOS%E3%80%8B%E9%9D%A2%E8%AF%95%E9%A2%98%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88)
+* [使用 Jenkins+Github+Xcode 对 iOS 项目做自动打包与持续集成，并将最终的 IPA 发布到 fir.im 上供下载](http://www.zengxianhua.com/2016/02/16/ti-gao-kai-fa-xiao-lu/)
 
 
 ### iOS逆向工程
