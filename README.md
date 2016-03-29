@@ -156,6 +156,7 @@
 * [Facebook Paper使用的第三方库](http://blog.rpplusplus.me/blog/2014/02/11/facebook-paper-used-3rd/)
 * [适合新人学习的iOS官方Demo](http://www.jianshu.com/p/da65e54a55fc)
 * [iOS完整App资源收集](http://www.henishuo.com/ios-app-fully-code/)
+* [iOS学习资源汇总(开源项目、第三方库、技术博客等等)](http://www.jianshu.com/p/b7c4a787a597)
 
 #### 调试以及日志
 * [oneapm.com](http://www.oneapm.com/)
