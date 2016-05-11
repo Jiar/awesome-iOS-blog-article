@@ -91,6 +91,7 @@
 * [CoreText笔记 Part 1](http://longxdragon.github.io/2015/03/14/CoreText-Notes-Part-1/)
 
 #### 证书及推送
+* [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
 * [iOS证书及描述文件制作流程](http://docs.apicloud.com/APICloud/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/iOS-License-Application-Guidance)
 * [创建Apple应用并创建APNS推送证书](http://docs.getui.com/pages/viewpage.action?pageId=1934165#id-创建Apple应用并创建APNS推送证书-APNSPush证书创建)
 * [细说 iOS 消息推送](http://www.cocoachina.com/industry/20140528/8582.html)
