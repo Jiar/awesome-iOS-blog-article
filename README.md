@@ -83,7 +83,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [UICollectionView的数据预加载及图片加载逻辑的优化](http://blog.vars.me/blog/2015/04/26/UICollectionView-Optimizing/)
 
 #### UINavigationController
-* [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/23/yong-revealfen-xi-wang-yi-yun-yin-le-de-dao-hang-kong-zhi-qi-qie-huan-xiao-guo/)
+* [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/07/%E7%94%A8Reveal%E5%88%86%E6%9E%90%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E5%AF%BC%E8%88%AA%E6%8E%A7%E5%88%B6%E5%99%A8%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C/)
 * [iOS-给push出来的控制器添加全局滑动(返回)手势](http://www.jianshu.com/p/158d68a730d3)
 
 #### CoreText
