@@ -190,9 +190,10 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [史上最用心的iOS App上架流程](http://www.jianshu.com/p/16fa56eacb5e)
 
 #### Blog
-* [fir.im 飞行日志](http://blog.fir.im/)
+* [OneV's Den](https://onevcat.com/)
 * [唐巧的技术博客](http://blog.devtang.com/)
 * [ibireme的技术博客](http://blog.ibireme.com/)
+* [fir.im 飞行日志](http://blog.fir.im/)
 * [美团点评技术团队](http://tech.meituan.com/)
 * [百度知道技术团队](http://blog.sunnyxx.com/)
 * [王巍的技术博客](http://onevcat.com/)
