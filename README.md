@@ -89,6 +89,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [使用Autolayout实现UITableView的Cell动态布局和高度动态改变](http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/index.html)
 * [iOS中AutoLayer自动布局流程及相关方法](http://www.th7.cn/Program/IOS/201406/213977.shtml)
 * [AKTKit.AKTLayout](https://github.com/AkteamYang/AKTKit.AKTLayout)
+* [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
 
 #### UINavigationController
 * [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/07/%E7%94%A8Reveal%E5%88%86%E6%9E%90%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E5%AF%BC%E8%88%AA%E6%8E%A7%E5%88%B6%E5%99%A8%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C/)
