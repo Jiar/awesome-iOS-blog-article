@@ -17,11 +17,11 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
     - [GCD、NSOperationQueue、NSRunLoop](#GCD、NSOperationQueue、NSRunLoop)
     - [RAC/MVVM](#RAC/MVVM)
     - [Runtime](#Runtime)
-    - [iOS Animation](#iOS Animation)
+    - [iOS Animation、UIBezierPath](#iOS Animation、UIBezierPath)
     - [Swift](#Swift)
     - [CocoaPods](#CocoaPods)
     - [LLDB](#LLDB)
-    - [调试打包日志测试](#调试打包日志测试)
+    - [调试打包日志测试持续集成](#调试打包日志测试持续集成)
     - [证书推送上架](#证书推送上架)
     - [Blog](#Blog)
     - [iOS代码库](#iOS代码库)
@@ -85,6 +85,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [TableViewCellWithAutoLayout](https://github.com/smileyborg/TableViewCellWithAutoLayout)
 * [TableViewCellWithAutoLayoutiOS8](https://github.com/smileyborg/TableViewCellWithAutoLayoutiOS8)
 * [iOS 8 Auto Layout界面自动布局系列5-自身内容尺寸约束、修改约束、布局动画](http://www.itnose.net/detail/6309814.html)
+* [iOS进阶指南试读之UI篇](http://www.jianshu.com/p/c4f3303c63d8)
 * [AutoLayout中的Content Hugging 和 Content Compression Resistance](http://blog.csdn.net/yongyinmg/article/details/39526207)
 * [使用Autolayout实现UITableView的Cell动态布局和高度动态改变](http://codingobjc.com/blog/2014/10/15/shi-yong-autolayoutshi-xian-uitableviewde-celldong-tai-bu-ju-he-ke-bian-xing-gao/index.html)
 * [iOS中AutoLayer自动布局流程及相关方法](http://www.th7.cn/Program/IOS/201406/213977.shtml)
@@ -139,7 +140,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Runtime 学习笔记(二)](http://lastdays.cn/2016/02/20/runtime2/)
 * [Swift Runtime分析：还像OC Runtime一样吗？](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403153173&idx=1&sn=c631f95b28a0eb4b842a9494e43a30e5)
 
-#### iOS Animation
+#### iOS Animation、UIBezierPath
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo)
 * [Facebook POP 进阶指南](http://www.cocoachina.com/industry/20140704/9034.html)
 * [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057)
@@ -147,6 +148,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [碎片动画](http://sindrilin.com/animate/2016/05/12/%E7%A2%8E%E7%89%87%E5%8A%A8%E7%94%BB.html)
 * [关于App的一些迷思以及一些动画效果开源库的推荐](http://www.jianshu.com/p/69449e6bdc14)
 * [iOS动画和特效（一）UIView动画和CoreAnimation](http://liuyanwei.jumppo.com/2015/10/30/iOS-Animation-UIViewAndCoreAnimation.html)
+* [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
 
 #### Swift
 * [swift.org](https://swift.org/)
@@ -168,7 +170,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Chisel-LLDB命令插件，让调试更Easy](https://blog.cnbluebox.com/blog/2015/03/05/chisel/)
 * [教你如何使用Chisel增强LLDB调试](http://www.jianshu.com/p/79468a2eb6db)
 
-#### 调试打包日志测试
+#### 调试打包日志测试持续集成
 * [oneapm.com](http://www.oneapm.com/)
 * [BugHD](http://bughd.com/)
 * [CocoaLumberjack和XcodeColors的安装和使用](http://www.jianshu.com/p/7eb7725c933c)
@@ -180,6 +182,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS 自动化测试框架 Google EarlGrey 尝鲜](https://testerhome.com/topics/4137)
 * [敲一下enter键，完成iOS的打包工作](http://www.jianshu.com/p/a6cc6d9346ed)
 * [iOS 平台如何使用 TestFlight 进行 Beta 测试](http://mp.weixin.qq.com/s?__biz=MzA4Mzg4ODE1NQ==&mid=2650417976&idx=1&sn=bb511a31c8c55413b4c531f1ab795f39&scene=0#wechat_redirect)
+* [解放程序猿（媛）的双手—iOS UI自动化测试](http://tmq.qq.com/2016/06/uitestingiosautomation/)
+* [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
