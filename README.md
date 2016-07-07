@@ -209,6 +209,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Top 100 Best Blogs for iOS Developers](http://www.softwarehow.com/best-blogs-for-ios-developers/)
 * [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
 * [斯坦福大学更新 iOS 9 编程开发新课程](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
+* [WeRead团队博客](http://wereadteam.github.io/)
 
 #### iOS代码库
 * [apple官方sample](https://developer.apple.com/library/ios/samplecode/)
