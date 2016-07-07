@@ -184,6 +184,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS 平台如何使用 TestFlight 进行 Beta 测试](http://mp.weixin.qq.com/s?__biz=MzA4Mzg4ODE1NQ==&mid=2650417976&idx=1&sn=bb511a31c8c55413b4c531f1ab795f39&scene=0#wechat_redirect)
 * [解放程序猿（媛）的双手—iOS UI自动化测试](http://tmq.qq.com/2016/06/uitestingiosautomation/)
 * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
+* [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
+* [iOS内存泄漏自动检测工具PLeakSniffer](http://mrpeak.cn/blog/leak/)
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
