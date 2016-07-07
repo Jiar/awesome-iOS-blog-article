@@ -173,6 +173,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 #### 调试打包日志测试持续集成
 * [oneapm.com](http://www.oneapm.com/)
 * [BugHD](http://bughd.com/)
+* [易观方舟](http://dev.analysys.cn/)
 * [CocoaLumberjack和XcodeColors的安装和使用](http://www.jianshu.com/p/7eb7725c933c)
 * [CocoaLumberjack的ios应用开发使用指南](http://blog.csdn.net/jia12216/article/details/44412697)
 * [iOS开发中的单元测试](http://www.infoq.com/cn/articles/ios-unit-test-1)
