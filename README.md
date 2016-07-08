@@ -156,6 +156,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [Swift开发者周刊](http://swiftweekly.cn/archive.html)
 * [SwiftGG](http://swift.gg/)
+* [Swift精选内容](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
