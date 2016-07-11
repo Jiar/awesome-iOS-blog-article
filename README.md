@@ -188,6 +188,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
 * [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
 * [iOS内存泄漏自动检测工具PLeakSniffer](http://mrpeak.cn/blog/leak/)
+* [WWDC15 Session笔记 - Xcode 7 UI 测试初窥](https://onevcat.com/2015/09/ui-testing/)
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
