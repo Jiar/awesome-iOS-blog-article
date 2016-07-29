@@ -192,8 +192,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
-* [iOS证书及描述文件制作流程](http://docs.apicloud.com/APICloud/%E6%8A%80%E6%9C%AF%E4%B8%93%E9%A2%98/iOS-License-Application-Guidance)
 * [细说 iOS 消息推送](http://www.cocoachina.com/industry/20140528/8582.html)
+* [个推推送证书配及描述文件制作流程置](http://docs.getui.com/mobile/ios/apns/)
+* [apicloud推送证书配及描述文件制作流程](http://docs.apicloud.com/Dev-Guide/iOS-License-Application-Guidance)
 * [iOS消息推送之APNS](http://blog.csdn.net/jiajiayouba/article/details/39926017)
 * [ios 如何判断是点击推送信息进入还是点击app图标进入程序](http://zhidao.baidu.com/link?url=QuZ9WZqZdHngaTSnao6-oZggHIw_f2KoSBj1-wu7cRZg2S7ytMATyGp-PnwtQOp90QgqKJ_Lk7e6lSmhf03tb-GIKgWmW9Zsu6sG2chMk3O)
 * [史上最用心的iOS App上架流程](http://www.jianshu.com/p/16fa56eacb5e)
