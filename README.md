@@ -79,6 +79,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS 高性能异构滚动视图构建方案](http://pingguohe.net/2016/01/31/lazyscroll.html)
 * [UICollectionView + UIKit Dynamics](http://objccn.io/issue-5-2/)
 * [UICollectionView的数据预加载及图片加载逻辑的优化](http://blog.vars.me/blog/2015/04/26/UICollectionView-Optimizing/)
+* [Cocoa：NSTableView 实现类似 Dock 的拖拽排序](http://blog.seedlab.io/open-gap-for-nstableview-drag-and-drop/)
 
 #### AutoLayout
 * [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
@@ -148,7 +149,13 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [碎片动画](http://sindrilin.com/animate/2016/05/12/%E7%A2%8E%E7%89%87%E5%8A%A8%E7%94%BB.html)
 * [关于App的一些迷思以及一些动画效果开源库的推荐](http://www.jianshu.com/p/69449e6bdc14)
 * [iOS动画和特效（一）UIView动画和CoreAnimation](http://liuyanwei.jumppo.com/2015/10/30/iOS-Animation-UIViewAndCoreAnimation.html)
+* [下雪的粒子效果、帧动画](http://www.jianshu.com/p/86d414ec8f3a)
+* [右拉的3D抽屉效果](http://www.jianshu.com/p/77386607fd32)
+* [Layer Animations的进阶使用](http://www.jianshu.com/p/a539a5fd3000)
+* [Layer Animations的基本使用](http://www.jianshu.com/p/1d5a528053aa)
+* [View Animations](http://www.jianshu.com/p/6af8a7a8a15a)
 * [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
+* [放肆地使用UIBezierPath和CAShapeLayer画各种图形](http://www.cocoachina.com/ios/20160214/15251.html)
 
 #### Swift
 * [swift.org](https://swift.org/)
@@ -285,6 +292,11 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [UIButton的响应事件 UIControlEvents 类型说明](http://my.oschina.net/shede333/blog/509777?fromerr=MdBjGaCh)
 * [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
 * [WKWebView的使用和各种坑的解决方法（OC＋Swift）](http://www.jianshu.com/p/403853b63537)
+* [iOS 9新特性、泛型、__kindof的使用](http://www.jianshu.com/p/3f73e696dd4d)
+* [iOS 监听键盘伸缩调整输入框位置](http://www.jianshu.com/p/17b703b452cb)
+* [iOS图片圆角的裁剪优化](http://www.jianshu.com/p/b91fea25c892)
+* [const修饰全局变量取代宏定义](http://www.jianshu.com/p/ee4471b1a05d)
+* [UIStackView 基础介绍](http://www.jianshu.com/p/ed981a87080b)
 
 
 ### iOS逆向工程
