@@ -98,6 +98,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS-给push出来的控制器添加全局滑动(返回)手势](http://www.jianshu.com/p/158d68a730d3)
 * [iOS 实现NavigationController的titleView动态缩放效果](http://www.jianshu.com/p/bcf3d692f99d)
 * [iOS利用Runtime自定义控制器POP手势动画](http://www.jianshu.com/p/d39f7d22db6c)
+* [iOS全屏右滑返回详解](http://www.jianshu.com/p/2e8d332c60ff)
 
 #### CoreText
 * [CoreText入门](http://geeklu.com/2013/03/core-text/)
