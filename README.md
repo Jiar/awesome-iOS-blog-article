@@ -17,7 +17,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
     - [GCD、NSOperationQueue、NSRunLoop](#GCD、NSOperationQueue、NSRunLoop)
     - [RAC/MVVM](#RAC/MVVM)
     - [Runtime](#Runtime)
-    - [iOS Animation、UIBezierPath](#iOS Animation、UIBezierPath)
+    - [iOS Animation、UIBezierPath、CAShapeLayer](#iOS Animation、UIBezierPath、CAShapeLayer)
     - [Swift](#Swift)
     - [CocoaPods](#CocoaPods)
     - [LLDB](#LLDB)
@@ -142,7 +142,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Runtime 学习笔记(二)](http://lastdays.cn/2016/02/20/runtime2/)
 * [Swift Runtime分析：还像OC Runtime一样吗？](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403153173&idx=1&sn=c631f95b28a0eb4b842a9494e43a30e5)
 
-#### iOS Animation、UIBezierPath
+#### iOS Animation、UIBezierPath、CAShapeLayer
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo)
 * [Facebook POP 进阶指南](http://www.cocoachina.com/industry/20140704/9034.html)
 * [iOS自定义转场动画实战讲解](http://www.jianshu.com/p/ea0132738057)
@@ -157,6 +157,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [View Animations](http://www.jianshu.com/p/6af8a7a8a15a)
 * [Elastic view animation using UIBezierPath](http://iostuts.io/2015/10/17/elastic-bounce-using-uibezierpath-and-pan-gesture/)
 * [放肆地使用UIBezierPath和CAShapeLayer画各种图形](http://www.cocoachina.com/ios/20160214/15251.html)
+* [关于CAShapeLayer的一些实用案例和技巧](http://www.jianshu.com/p/a1e88a277975)
 
 #### Swift
 * [swift.org](https://swift.org/)
@@ -197,6 +198,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
 * [iOS内存泄漏自动检测工具PLeakSniffer](http://mrpeak.cn/blog/leak/)
 * [WWDC15 Session笔记 - Xcode 7 UI 测试初窥](https://onevcat.com/2015/09/ui-testing/)
+* [iOS 性能优化：Instruments 工具的救命三招](https://blog.leancloud.cn/2835/)
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
@@ -298,6 +300,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS图片圆角的裁剪优化](http://www.jianshu.com/p/b91fea25c892)
 * [const修饰全局变量取代宏定义](http://www.jianshu.com/p/ee4471b1a05d)
 * [UIStackView 基础介绍](http://www.jianshu.com/p/ed981a87080b)
+* [教你快速拿到iOS应用中所有图片资源](http://www.jianshu.com/p/78dea31f2109)
+* [Xcode 8：如何创建 iMessage 动图](http://swift.gg/2016/07/14/xcode-8-create-an-animated-imessage-sticker/)
 
 
 ### iOS逆向工程
