@@ -79,7 +79,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS 高性能异构滚动视图构建方案](http://pingguohe.net/2016/01/31/lazyscroll.html)
 * [UICollectionView + UIKit Dynamics](http://objccn.io/issue-5-2/)
 * [UICollectionView的数据预加载及图片加载逻辑的优化](http://blog.vars.me/blog/2015/04/26/UICollectionView-Optimizing/)
-* [Cocoa：NSTableView 实现类似 Dock 的拖拽排序](http://blog.seedlab.io/open-gap-for-nstableview-drag-and-drop/)
+* [iOS 10 UICollectionView新特性](http://www.jianshu.com/p/e97780a24224)
 
 #### AutoLayout
 * [优化UITableViewCell高度计算的那些事](http://blog.sunnyxx.com/2015/05/17/cell-height-calculation/)
@@ -197,7 +197,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [使用Jenkins搭建iOS/Android持续集成打包平台](http://debugtalk.com/post/iOS-Android-Packing-with-Jenkins)
 * [MLeaksFinder：精准 iOS 内存泄露检测工具](http://wereadteam.github.io/2016/02/22/MLeaksFinder/)
 * [iOS内存泄漏自动检测工具PLeakSniffer](http://mrpeak.cn/blog/leak/)
-* [WWDC15 Session笔记 - Xcode 7 UI 测试初窥](https://onevcat.com/2015/09/ui-testing/)
+* [Xcode 7 UI 测试初窥](https://onevcat.com/2015/09/ui-testing/)
 * [iOS 性能优化：Instruments 工具的救命三招](https://blog.leancloud.cn/2835/)
 
 #### 证书推送上架
