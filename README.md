@@ -141,6 +141,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Runtime 学习笔记(一)](http://lastdays.cn/2016/02/20/runtime1/)
 * [Runtime 学习笔记(二)](http://lastdays.cn/2016/02/20/runtime2/)
 * [Swift Runtime分析：还像OC Runtime一样吗？](http://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403153173&idx=1&sn=c631f95b28a0eb4b842a9494e43a30e5)
+* [从AOP框架学习iOS Runtime](http://yq.aliyun.com/articles/3063)
 
 #### iOS Animation、UIBezierPath、CAShapeLayer
 * [iOS Animation](https://github.com/yixiangboy/IOSAnimationDemo)
@@ -225,11 +226,14 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [我常常浏览的博客和网站](http://www.jianshu.com/p/e5353a1a752c)
 * [斯坦福大学更新 iOS 9 编程开发新课程](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 * [WeRead团队博客](http://wereadteam.github.io/)
+* [掘金翻译计划](https://github.com/xitu/gold-miner)
 
 #### iOS代码库
 * [apple官方sample](https://developer.apple.com/library/ios/samplecode/)
 * [awesome-ios](https://github.com/search?utf8=%E2%9C%93&q=awesome-ios)
 * [vsouza's awesome-ios](https://github.com/vsouza/awesome-ios)
+* [awesome-ios-cn](https://github.com/jobbole/awesome-ios-cn)
+* [awesome-swift](https://github.com/matteocrippa/awesome-swift)
 * [ios_top_1000](https://github.com/iamdaiyuan/ios_top_1000)
 * [TimLiu-iOS](https://github.com/Tim9Liu9/TimLiu-iOS#%E4%B8%8B%E6%8B%89%E5%88%B7%E6%96%B0)
 * [cocoachina](http://code.cocoachina.com/)
@@ -248,6 +252,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS开发大神必备的Xcode插件](http://www.jianshu.com/p/ac8ac991d77b)
 
 #### 其他
+* [iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)
 * [Limboy：自学 iOS 开发的一些经验](http://www.cocoachina.com/cms/wap.php?action=article&id=10823)
 * [TSS](http://api.ineal.me/tss/status)
 * [Big Nerd Ranch Books](http://forums.bignerdranch.com/)
@@ -306,6 +311,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS仿微信小视频功能开发优化记录](http://www.jianshu.com/p/6d35bb53f4ac)
 * [详解 SiriKit - SiriKit 教程（Part 2）](http://swift.gg/2016/07/18/sirikit-swift-3-resolutions-sirikit-tutorial-part-2/)
 * [iOS-状态栏设置](http://www.jianshu.com/p/5aa05983b445)
+* [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)
+* [iOS 利用 framework 进行动态更新](http://yq.aliyun.com/articles/3024)
 
 
 ### iOS逆向工程
@@ -352,6 +359,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)
 
 #### mac工具
+* [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
 * [Homebrew](http://brew.sh/index_zh-cn.html)
 * [apple.com/downloads](https://developer.apple.com/downloads/)
 * [Java for OS X 2015-001](https://support.apple.com/kb/DL1572?viewlocale=en_US&locale=en_US)
