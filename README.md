@@ -302,6 +302,10 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [UIStackView 基础介绍](http://www.jianshu.com/p/ed981a87080b)
 * [教你快速拿到iOS应用中所有图片资源](http://www.jianshu.com/p/78dea31f2109)
 * [Xcode 8：如何创建 iMessage 动图](http://swift.gg/2016/07/14/xcode-8-create-an-animated-imessage-sticker/)
+* [实现类似QQ微信视频的iOS小窗口自由拖动](http://www.jianshu.com/p/42c5f608349b)
+* [iOS仿微信小视频功能开发优化记录](http://www.jianshu.com/p/6d35bb53f4ac)
+* [详解 SiriKit - SiriKit 教程（Part 2）](http://swift.gg/2016/07/18/sirikit-swift-3-resolutions-sirikit-tutorial-part-2/)
+* [iOS-状态栏设置](http://www.jianshu.com/p/5aa05983b445)
 
 
 ### iOS逆向工程
