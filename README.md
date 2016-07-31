@@ -67,6 +67,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [@weakify, @strongify](http://www.jianshu.com/p/3d6c4416db5e)
 * [开始iOS 7中自动布局教程(一)](http://www.cocoachina.com/industry/20131203/7462.html)
 * [开始iOS 7中自动布局教程(二)](http://www.cnblogs.com/zer0Black/p/3977288.html)
+* [@synthesize和@dynamic区别](http://www.cnblogs.com/xiaodao/archive/2012/10/09/2716244.html)
 
 #### UITableView、UICollectionView
 * [UITableView和UITableViewCell的几种样式](http://blog.sina.com.cn/s/blog_4669f1cd0101qyp9.html)
@@ -112,6 +113,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [[Cocoa]深入浅出 Cocoa 之 Core Data（1）- 框架详解](http://blog.csdn.net/kesalin/article/details/6739319)
 * [[Cocoa]深入浅出 Cocoa 之 Core Data（2）- 手动编写代码](http://blog.csdn.net/kesalin/article/details/6746117)
 * [iOS本地数据存取，看这里就够了](http://www.jianshu.com/p/a3eeae99e902)
+* [CoreData和管理者MagicalRecord](http://www.lai18.com/content/6834769.html)
 
 #### Cache
 * [iOS 网络缓存扫盲篇](https://www.v2ex.com/t/252955?from=singlemessage&isappinstalled=1)
