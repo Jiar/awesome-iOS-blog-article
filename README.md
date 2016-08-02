@@ -202,6 +202,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS内存泄漏自动检测工具PLeakSniffer](http://mrpeak.cn/blog/leak/)
 * [Xcode 7 UI 测试初窥](https://onevcat.com/2015/09/ui-testing/)
 * [iOS 性能优化：Instruments 工具的救命三招](https://blog.leancloud.cn/2835/)
+* [手把手教你利用Jenkins持续集成iOS项目](http://www.jianshu.com/p/41ecb06ae95f)
 
 #### 证书推送上架
 * [iOS远程推送原理及实现过程(证书、iOS端代码、Java服务器代码)](http://blog.tingyun.com/web/article/detail/571)
@@ -214,6 +215,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 
 #### Blog
 * [OneV's Den](https://onevcat.com/)
+* [ObjC中国](https://objccn.io/issues/)
 * [唐巧的技术博客](http://blog.devtang.com/)
 * [ibireme的技术博客](http://blog.ibireme.com/)
 * [fir.im 飞行日志](http://blog.fir.im/)
@@ -315,6 +317,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS-状态栏设置](http://www.jianshu.com/p/5aa05983b445)
 * [让UIWebview拥有超强的图片处理能力](http://www.jianshu.com/p/a46297f2ce70)
 * [iOS 利用 framework 进行动态更新](http://yq.aliyun.com/articles/3024)
+* [Xcode 8.0 Beta发布，详解Swift语言的重大变化](http://blog.csdn.net/gf771115/article/details/51682728)
+* [Xcode 8 Auto Layout新特性](http://www.jianshu.com/p/2521c610fac3)
+* [iOS 10  推送Notification新特性](http://www.jianshu.com/p/9b720efe3779)
 
 
 ### iOS逆向工程
