@@ -114,6 +114,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [[Cocoa]深入浅出 Cocoa 之 Core Data（2）- 手动编写代码](http://blog.csdn.net/kesalin/article/details/6746117)
 * [iOS本地数据存取，看这里就够了](http://www.jianshu.com/p/a3eeae99e902)
 * [CoreData和管理者MagicalRecord](http://www.lai18.com/content/6834769.html)
+* [iOS Core Data 数据迁移 指南](http://www.jianshu.com/p/b3b764fc5191)
+* [手把手教你从Core Data迁移到Realm](http://www.jianshu.com/p/d79b2b1bfa72)
+* [微信,QQ这类IM app怎么做——谈谈Websocket](http://www.jianshu.com/p/bcefda55bce4)
 
 #### Cache
 * [iOS 网络缓存扫盲篇](https://www.v2ex.com/t/252955?from=singlemessage&isappinstalled=1)
@@ -320,6 +323,10 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Xcode 8.0 Beta发布，详解Swift语言的重大变化](http://blog.csdn.net/gf771115/article/details/51682728)
 * [Xcode 8 Auto Layout新特性](http://www.jianshu.com/p/2521c610fac3)
 * [iOS 10  推送Notification新特性](http://www.jianshu.com/p/9b720efe3779)
+* [关于IB_DESIGNABLE / IBInspectable的那些需要注意的事](http://www.jianshu.com/p/a5351d270ac1)
+* [Launch Page让Logo"飞"出屏幕](http://www.jianshu.com/p/3fe831108001)
+* [iOS如何优雅的处理“回调地狱Callback hell”(二)——使用Swift](http://www.jianshu.com/p/deb65d0a6b8c)
+* [iOS如何优雅的处理“回调地狱Callback hell”(一)——使用PromiseKit](http://www.jianshu.com/p/f060cfd52f17)
 
 
 ### iOS逆向工程
