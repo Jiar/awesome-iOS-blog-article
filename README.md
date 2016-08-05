@@ -328,6 +328,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Launch Page让Logo"飞"出屏幕](http://www.jianshu.com/p/3fe831108001)
 * [iOS如何优雅的处理“回调地狱Callback hell”(二)——使用Swift](http://www.jianshu.com/p/deb65d0a6b8c)
 * [iOS如何优雅的处理“回调地狱Callback hell”(一)——使用PromiseKit](http://www.jianshu.com/p/f060cfd52f17)
+* [搞定RSA（公钥、私钥）](http://blog.csdn.net/yi_zz32/article/details/50097325)
 
 
 ### iOS逆向工程
