@@ -337,6 +337,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS开发中集成Reveal](http://git.devzeng.com/blog/ios-reveal-integrating.html)
 * [Reveal:分析iOS UI的利器](http://security.ios-wiki.com/issue-3-4/)
 * [Reveal查看任意app的高级技巧](http://c.blog.sina.com.cn/profile.php?blogid=cb8a22ea89000gtw)
+* [iOS Debug 速查表](https://everettjf.github.io/2016/05/25/my-ios-debug-cheatsheet)
 
 
 ### Git相关
