@@ -172,6 +172,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Swift开发者周刊](http://swiftweekly.cn/archive.html)
 * [SwiftGG](http://swift.gg/)
 * [Swift精选内容](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
+* [iOS --- 如何在Swift项目中使用runtime?](http://icetime17.github.io/2016/07/03/2016-07/iOS-%E5%A6%82%E4%BD%95%E5%9C%A8Swift%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8runtime)
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
