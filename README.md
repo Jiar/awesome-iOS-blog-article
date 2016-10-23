@@ -26,6 +26,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
     - [Blog](#Blog)
     - [iOS代码库](#iOS代码库)
     - [XCode插件](#XCode插件)
+    - [Bug Fix](#Bug Fix)
     - [其他](#其他)
 
 - [iOS逆向工程](#iOS逆向工程)
@@ -259,6 +260,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 #### XCode插件
 * [那些不能错过的Xcode插件](http://www.cocoachina.com/industry/20130918/7022.html)
 * [iOS开发大神必备的Xcode插件](http://www.jianshu.com/p/ac8ac991d77b)
+
+#### Bug Fix
+* [Stripping Unwanted Architectures From Dynamic Libraries In Xcode](http://ikennd.ac/blog/2015/02/stripping-unwanted-architectures-from-dynamic-libraries-in-xcode/)
 
 #### 其他
 * [iOS-Source-Code-Analyze](https://github.com/Draveness/iOS-Source-Code-Analyze)
