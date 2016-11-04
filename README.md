@@ -336,6 +336,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [搞定RSA（公钥、私钥）](http://blog.csdn.net/yi_zz32/article/details/50097325)
 * [iPhone/iOS开启个人热点的纵向适配小结](http://blog.csdn.net/phunxm/article/details/42967035)
 * [iOS UIDevice & iOS检测屏幕旋转实例](https://my.oschina.net/wolx/blog/387315)
+* [Swift3.0 - 真的很简单](http://www.jianshu.com/p/a10afa7f9ce2)
+* [在iOS 8中使用UIAlertController](http://www.cocoachina.com/ios/20141126/10320.html)
 
 
 ### iOS逆向工程
