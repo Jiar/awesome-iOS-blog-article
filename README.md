@@ -340,6 +340,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [在iOS 8中使用UIAlertController](http://www.cocoachina.com/ios/20141126/10320.html)
 * [iOS UILabel 边框出现黑线问题](http://blog.csdn.net/dashudeshu/article/details/49784251)
 * [iOS开发——创建你自己的Framework](http://blog.csdn.net/u013604612/article/details/43197465)
+* [合并生成模拟器和真机通用的framework](http://msching.github.io/blog/2014/05/05/custom-framework-merging/)
 
 
 ### iOS逆向工程
