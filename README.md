@@ -217,6 +217,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS消息推送之APNS](http://blog.csdn.net/jiajiayouba/article/details/39926017)
 * [ios 如何判断是点击推送信息进入还是点击app图标进入程序](http://zhidao.baidu.com/link?url=QuZ9WZqZdHngaTSnao6-oZggHIw_f2KoSBj1-wu7cRZg2S7ytMATyGp-PnwtQOp90QgqKJ_Lk7e6lSmhf03tb-GIKgWmW9Zsu6sG2chMk3O)
 * [史上最用心的iOS App上架流程](http://www.jianshu.com/p/16fa56eacb5e)
+* [理解 iOS 应用程序的代码签名机制](https://zhuanlan.zhihu.com/p/23659530)
 
 #### Blog
 * [OneV's Den](https://onevcat.com/)
