@@ -94,6 +94,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS中AutoLayer自动布局流程及相关方法](http://www.th7.cn/Program/IOS/201406/213977.shtml)
 * [AKTKit.AKTLayout](https://github.com/AkteamYang/AKTKit.AKTLayout)
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
+* [深入理解Auto Layout 第一弹](http://zhangbuhuai.com/beginning-auto-layout-part-1/)
+
 
 #### UINavigationController
 * [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/07/%E7%94%A8Reveal%E5%88%86%E6%9E%90%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E5%AF%BC%E8%88%AA%E6%8E%A7%E5%88%B6%E5%99%A8%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C/)
@@ -342,6 +344,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS UILabel 边框出现黑线问题](http://blog.csdn.net/dashudeshu/article/details/49784251)
 * [iOS开发——创建你自己的Framework](http://blog.csdn.net/u013604612/article/details/43197465)
 * [合并生成模拟器和真机通用的framework](http://msching.github.io/blog/2014/05/05/custom-framework-merging/)
+* [Swift如何打印一个对象的地址](http://www.jianshu.com/p/84f244ec49dd)
+
 
 
 ### iOS逆向工程
