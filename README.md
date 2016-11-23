@@ -136,6 +136,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS中GCD的使用小结](http://www.jianshu.com/p/ae786a4cf3b1)
 * [NSOperation and NSOperationQueue Tutorial in Swift](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
 * [Cocoa深入学习:NSOperationQueue、NSRunLoop和线程安全](https://blog.cnbluebox.com/blog/2014/07/01/cocoashen-ru-xue-xi-nsoperationqueuehe-nsoperationyuan-li-he-shi-yong/)
+* [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
 
 #### RAC/MVVM
 * [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
