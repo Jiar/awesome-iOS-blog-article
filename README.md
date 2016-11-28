@@ -392,6 +392,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 
 #### mac配置
 * [如何配置一个高效的 Mac 工作环境](https://github.com/macdao/ocds-guide-to-setting-up-mac)
+* [如何大幅度提高 Mac 开发效率](https://bestswifter.com/efficient-mac/)
+* [让你用 Chrome 上网快到想哭：Vimium](http://sspai.com/27723/)
+
 
 #### mac工具
 * [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
