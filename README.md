@@ -246,6 +246,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [斯坦福大学更新 iOS 9 编程开发新课程](https://itunes.apple.com/us/course/developing-ios-9-apps-swift/id1104579961)
 * [WeRead团队博客](http://wereadteam.github.io/)
 * [掘金翻译计划](https://github.com/xitu/gold-miner)
+* [没故事的卓同学](http://www.jianshu.com/users/88a056103c02/)
 * [一缕殇流化隐半边冰霜](http://www.jianshu.com/users/12201cdd5d7a/latest_articles)
 
 #### iOS代码库
