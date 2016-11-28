@@ -9,6 +9,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
     - [iOS基础](#iOS基础)
     - [UITableView、UICollectionView](#UITableView、UICollectionView)
     - [AutoLayout](#AutoLayout)
+    - [Media](#Media)
     - [UINavigationController](#UINavigationController)
     - [CoreText](#CoreText)
     - [CoreData](#CoreData)
@@ -96,6 +97,11 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [SDAutoLayout](https://github.com/gsdios/SDAutoLayout)
 * [深入理解Auto Layout 第一弹](http://zhangbuhuai.com/beginning-auto-layout-part-1/)
 
+#### Media
+* [Swift AVPlayer 播放网络视频之基础篇](http://www.jianshu.com/p/d35980045c2b)
+* [AVPlayer 本地、网络视频播放相关](http://www.jianshu.com/p/de418c21d33c)
+* [基于 AVPlayer 自定义播放器](http://www.jianshu.com/p/195687ca80f5)
+* [iOS 无限循环小视频播放](http://www.jianshu.com/p/43b29e121793)
 
 #### UINavigationController
 * [用Reveal分析网易云音乐的导航控制器切换效果](http://jerrytian.com/2016/01/07/%E7%94%A8Reveal%E5%88%86%E6%9E%90%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90%E7%9A%84%E5%AF%BC%E8%88%AA%E6%8E%A7%E5%88%B6%E5%99%A8%E5%88%87%E6%8D%A2%E6%95%88%E6%9E%9C/)
