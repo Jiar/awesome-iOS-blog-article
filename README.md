@@ -181,8 +181,11 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [SwiftGuide](https://github.com/ipader/SwiftGuide)
 * [Swift开发者周刊](http://swiftweekly.cn/archive.html)
 * [SwiftGG](http://swift.gg/)
+* [API Design Guidelines](https://swift.org/documentation/api-design-guidelines/)
 * [Swift精选内容](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 * [iOS --- 如何在Swift项目中使用runtime?](http://icetime17.github.io/2016/07/03/2016-07/iOS-%E5%A6%82%E4%BD%95%E5%9C%A8Swift%E9%A1%B9%E7%9B%AE%E4%B8%AD%E4%BD%BF%E7%94%A8runtime)
+* [Swift 3 新特性一览](https://realm.io/cn/news/appbuilders-daniel-steinberg-whats-new-swift-3/?utm_source=tuicool&utm_medium=referral)
+* [Swift 3 中的函数参数命名规范指北](http://www.open-open.com/lib/view/open1476063231290.html)
 
 #### CocoaPods
 * [CocoaPods官网](https://cocoapods.org/)
