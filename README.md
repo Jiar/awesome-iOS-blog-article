@@ -15,7 +15,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
     - [CoreData](#CoreData)
     - [Cache](#Cache)
     - [Block](#Block)
-    - [GCD、NSOperationQueue、NSRunLoop](#GCD、NSOperationQueue、NSRunLoop)
+    - [GCD、NSOperationQueue、NSRunLoop、多线程安全、锁](#GCD、NSOperationQueue、NSRunLoop、多线程安全、锁)
     - [RAC/MVVM](#RAC/MVVM)
     - [Runtime](#Runtime)
     - [iOS Animation、UIBezierPath、CAShapeLayer](#iOS Animation、UIBezierPath、CAShapeLayer)
@@ -135,7 +135,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Block简介与用法](http://blog.csdn.net/enuola/article/details/8674063)
 * [Block深入问答](https://www.zhihu.com/question/34593410)
 
-#### GCD、NSOperationQueue、NSRunLoop
+#### GCD、NSOperationQueue、NSRunLoop、多线程安全、锁
 * [GCD 深入理解：第一部分](https://github.com/nixzhu/dev-blog/blob/master/2014-04-19-grand-central-dispatch-in-depth-part-1.md)
 * [GCD 深入理解：第二部分](https://github.com/nixzhu/dev-blog/blob/master/2014-05-14-grand-central-dispatch-in-depth-part-2.md)
 * [关于GCD开发的一些事儿](http://www.jianshu.com/p/f9e01c69a46f)
@@ -143,6 +143,9 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [NSOperation and NSOperationQueue Tutorial in Swift](http://www.raywenderlich.com/76341/use-nsoperation-nsoperationqueue-swift)
 * [Cocoa深入学习:NSOperationQueue、NSRunLoop和线程安全](https://blog.cnbluebox.com/blog/2014/07/01/cocoashen-ru-xue-xi-nsoperationqueuehe-nsoperationyuan-li-he-shi-yong/)
 * [深入理解RunLoop](http://blog.ibireme.com/2015/05/18/runloop/)
+* [不再安全的 OSSpinLock](http://blog.ibireme.com/2016/01/16/spinlock_is_unsafe_in_ios/?utm_source=tuicool&utm_medium=referral)
+* [多种常见的加锁方式性能对比测试工程OC版本](https://github.com/ibireme/tmp/blob/master/iOSLockBenckmark/iOSLockBenckmark/ViewController.m)
+* [多种常见的加锁方式性能对比测试工程Swift3版本](https://gist.github.com/steipete/36350a8a60693d440954b95ea6cbbafc)
 
 #### RAC/MVVM
 * [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
