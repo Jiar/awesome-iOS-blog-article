@@ -146,6 +146,8 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [不再安全的 OSSpinLock](http://blog.ibireme.com/2016/01/16/spinlock_is_unsafe_in_ios/?utm_source=tuicool&utm_medium=referral)
 * [多种常见的加锁方式性能对比测试工程OC版本](https://github.com/ibireme/tmp/blob/master/iOSLockBenckmark/iOSLockBenckmark/ViewController.m)
 * [多种常见的加锁方式性能对比测试工程Swift3版本](https://gist.github.com/steipete/36350a8a60693d440954b95ea6cbbafc)
+* [iOS多线程到底不安全在哪里？](http://mrpeak.cn/blog/ios-thread-safety/)
+* [正确使用多线程同步锁@synchronized()](http://mrpeak.cn/blog/synchronized/)
 
 #### RAC/MVVM
 * [RAC/MVVM个人学习资源汇总](http://www.jianshu.com/p/2cfed74789db)
