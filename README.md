@@ -203,6 +203,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [LLDB调试命令初探](http://www.starfelix.com/blog/2014/03/17/lldbdiao-shi-ming-ling-chu-tan/)
 * [Chisel-LLDB命令插件，让调试更Easy](https://blog.cnbluebox.com/blog/2015/03/05/chisel/)
 * [教你如何使用Chisel增强LLDB调试](http://www.jianshu.com/p/79468a2eb6db)
+* [小笨狼的LLDB技巧：chisel](http://ios.jobbole.com/83589/)
 
 #### 调试打包日志测试持续集成
 * [oneapm.com](http://www.oneapm.com/)
@@ -363,7 +364,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS开发——创建你自己的Framework](http://blog.csdn.net/u013604612/article/details/43197465)
 * [合并生成模拟器和真机通用的framework](http://msching.github.io/blog/2014/05/05/custom-framework-merging/)
 * [Swift如何打印一个对象的地址](http://www.jianshu.com/p/84f244ec49dd)
-
+* [关于Autolayout和Masonry自动布局的几个坑](http://ibloodline.com/articles/2016/03/02/autolayout-questions.html)
 
 
 ### iOS逆向工程
