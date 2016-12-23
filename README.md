@@ -368,6 +368,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [合并生成模拟器和真机通用的framework](http://msching.github.io/blog/2014/05/05/custom-framework-merging/)
 * [Swift如何打印一个对象的地址](http://www.jianshu.com/p/84f244ec49dd)
 * [关于Autolayout和Masonry自动布局的几个坑](http://ibloodline.com/articles/2016/03/02/autolayout-questions.html)
+* [iOS编译过程的原理和应用](http://www.kuqin.com/shuoit/20160114/350029.html)
 
 
 ### iOS逆向工程
