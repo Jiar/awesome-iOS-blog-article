@@ -361,6 +361,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Swift 3 新特性一览](https://realm.io/cn/news/appbuilders-daniel-steinberg-whats-new-swift-3/?utm_source=tuicool&utm_medium=referral)
 * [Swift 3 中的函数参数命名规范指北](http://www.open-open.com/lib/view/open1476063231290.html)
 * [iOS 异步图片加载优化与常用开源库分析](https://segmentfault.com/a/1190000002776279)
+* [重定义你的XCode Console](http://hyyy.me/2017/01/16/RemoteConsole/?from=timeline&isappinstalled=0&nsukey=DqsZpkVB4xLdkdDg6FW63qvumOkdmKjqj1a9ekbFXz4y6%2F9b%2FzPsgNIz33SWp2jG6Pjg%2Bs4q3SkKYaPzqiZUYttn47vuBhDv6dcrYMP051VPnSnq7YGADIyGVSfBYocyrvjUtdgJtepiwme4t65Pc1tRISeykfmH77LpbUA7TdKGXYcJm7NfPTiRzV5n8PhW)
 
 
 ### iOS逆向工程
