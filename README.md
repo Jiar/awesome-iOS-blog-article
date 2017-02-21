@@ -249,6 +249,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [Swift精选内容](https://github.com/ipader/SwiftGuide/blob/master/Featured.md)
 * [Auto Layout Club](https://autolayout.club)
 * [nixzhu](https://github.com/nixzhu/dev-blog)
+* [AloneMonkey](http://www.alonemonkey.com/)
 
 #### iOS代码库
 * [apple官方sample](https://developer.apple.com/library/ios/samplecode/)
