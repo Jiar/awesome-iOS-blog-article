@@ -324,6 +324,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [iOS 视图控制器转场详解](https://github.com/seedante/iOS-Note/wiki/ViewController-Transition)
 * [ios NSURLSession后台传输](http://www.cnblogs.com/trying/p/3790501.html)
 * [UIButton的响应事件 UIControlEvents 类型说明](http://my.oschina.net/shede333/blog/509777?fromerr=MdBjGaCh)
+
 * [移动端图片格式调研](http://blog.ibireme.com/2015/11/02/mobile_image_benchmark/)
 * [WKWebView的使用和各种坑的解决方法（OC＋Swift）](http://www.jianshu.com/p/403853b63537)
 * [iOS 9新特性、泛型、__kindof的使用](http://www.jianshu.com/p/3f73e696dd4d)
@@ -366,6 +367,7 @@ iOS学习与开发过程中，发现的比较好的一些博客和文章之类�
 * [重定义你的XCode Console](http://hyyy.me/2017/01/16/RemoteConsole/?from=timeline&isappinstalled=0&nsukey=DqsZpkVB4xLdkdDg6FW63qvumOkdmKjqj1a9ekbFXz4y6%2F9b%2FzPsgNIz33SWp2jG6Pjg%2Bs4q3SkKYaPzqiZUYttn47vuBhDv6dcrYMP051VPnSnq7YGADIyGVSfBYocyrvjUtdgJtepiwme4t65Pc1tRISeykfmH77LpbUA7TdKGXYcJm7NfPTiRzV5n8PhW)
 * [iOS开发--一步步教你彻底学会『iOS应用间相互跳转』](http://www.jianshu.com/p/b5e8ef8c76a3)
 * [谈谈 iOS 中图片的解压缩](http://blog.leichunfeng.com/blog/2017/02/20/talking-about-the-decompression-of-the-image-in-ios/)
+* [iOS开发中当TableView遇到导航栏自动下移的解决方案](http://www.code4app.com/blog-826368-806.html)
 
 
 ### iOS逆向工程
